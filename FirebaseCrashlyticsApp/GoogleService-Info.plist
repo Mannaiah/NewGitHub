@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>946390472052-d98qksgeal278cv770loo196akrlf8a9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.946390472052-d98qksgeal278cv770loo196akrlf8a9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYnLrGPoYf4hMrqpdT_4rH5VsGsgTpYkA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>946390472052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.karvy.FirebaseCrashlyticsApp</string>
+	<key>PROJECT_ID</key>
+	<string>crashlytics-2486a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crashlytics-2486a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:946390472052:ios:63e9f04f8041e5ba</string>
+	<key>DATABASE_URL</key>
+	<string>https://crashlytics-2486a.firebaseio.com</string>
+</dict>
+</plist>
